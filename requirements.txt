@@ -1,0 +1,11 @@
+﻿# Core scientific stack
+numpy
+pandas
+
+# Machine learning
+scikit-learn
+
+# Deep learning (used by CNN path and callbacks)
+tensorflow>=2
+torch
+
